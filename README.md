@@ -1,7 +1,4 @@
 <!-- 1. GitHub usernameを変更 -->
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=username" />
-</div>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Welcome to my page!
 
