@@ -5,7 +5,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Welcome to my page!
 
-- 🍎 I'm a iOS engineer with 5 years of professional experience in Vancouver, Canada. 🇨🇦
+- 🍎 I'm a iOS engineer with 5 years of professional experience. live in Vancouver, Canada. 🇨🇦
 - 💻 I love Native app development.!
 - ✏️ Currently I’m leraning Web development!
 
