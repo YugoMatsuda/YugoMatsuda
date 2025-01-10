@@ -16,16 +16,6 @@
 
 
 ##  Indie Project
-### [Reading notes BookClip](https://apps.apple.com/jp/app/%E8%AA%AD%E6%9B%B8%E3%83%A1%E3%83%A2%E7%AE%A1%E7%90%86-bookclip/id1527546245)
-
-BookClip allows you to easily save and organize your favorite book passages by simply taking photos instead of typing them out. Digitally highlight important sections, eliminating the need for physical markers in your books. Seamlessly back up your clips to iCloud, ensuring your annotations are accessible across all your devices.
-
-<img src="https://github.com/user-attachments/assets/b6b5c02d-9241-4cb0-b8f4-65c2ab955e23" width=180 />
-<img src="https://github.com/user-attachments/assets/bed8d6b9-bd7b-4b7c-9998-22223fa0dece" width=180 />
-<img src="https://github.com/user-attachments/assets/35ed45d0-772e-4713-bbf9-f1529d8892f4" width=180 />
-<img src="https://github.com/user-attachments/assets/e65934d3-b6a7-4046-bf88-5464faa96fd2" width=180 />
-<img src="https://github.com/user-attachments/assets/bd84fbc0-0320-479c-8f63-686d5f4e91af" width=180 />
-
 ### [AI Coach Pomodoro Timer PomodoLog](https://apps.apple.com/jp/app/ai%E3%82%B3%E3%83%BC%E3%83%81%E6%90%AD%E8%BC%89-%E3%83%9D%E3%83%A2%E3%83%89%E3%83%BC%E3%83%AD%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%BC-%E3%83%9D%E3%83%A2%E3%83%89%E3%83%BC%E3%83%AD%E3%82%B0/id6739179159)
 
 Maximize your focus and make the most of your breaks with our Pomodoro Timer app, guided by a customizable AI coach. Enjoy curated background music, smart task management, beautiful design, and seamless iCloud synchronization across Apple devices. Experience personalized coaching and real-time support to boost your productivity and achieve your goals efficiently.
@@ -49,6 +39,16 @@ Caffeine Log helps you track and manage your daily caffeine intake for a healthi
 <img src="https://github.com/user-attachments/assets/24167fa5-ac63-4871-bf11-617c35078693" width=180 />
 <img src="https://github.com/user-attachments/assets/f2576d45-29fb-4afc-b09f-4231858a4ec9" width=180 />
 <img src="https://github.com/user-attachments/assets/1cd7fafb-7ad3-4742-b77f-ec5627fae9c6" width=180 />
+
+### [Reading notes BookClip](https://apps.apple.com/jp/app/%E8%AA%AD%E6%9B%B8%E3%83%A1%E3%83%A2%E7%AE%A1%E7%90%86-bookclip/id1527546245)
+
+BookClip allows you to easily save and organize your favorite book passages by simply taking photos instead of typing them out. Digitally highlight important sections, eliminating the need for physical markers in your books. Seamlessly back up your clips to iCloud, ensuring your annotations are accessible across all your devices.
+
+<img src="https://github.com/user-attachments/assets/b6b5c02d-9241-4cb0-b8f4-65c2ab955e23" width=180 />
+<img src="https://github.com/user-attachments/assets/bed8d6b9-bd7b-4b7c-9998-22223fa0dece" width=180 />
+<img src="https://github.com/user-attachments/assets/35ed45d0-772e-4713-bbf9-f1529d8892f4" width=180 />
+<img src="https://github.com/user-attachments/assets/e65934d3-b6a7-4046-bf88-5464faa96fd2" width=180 />
+<img src="https://github.com/user-attachments/assets/bd84fbc0-0320-479c-8f63-686d5f4e91af" width=180 />
 
 ### [SaunaLog](https://apps.apple.com/jp/app/%E3%82%B5%E3%82%A6%E3%83%8A%E3%83%AD%E3%82%B0-%E3%82%B5%E6%B4%BB%E8%A8%98%E9%8C%B2/id6446017315)
 
