@@ -19,13 +19,7 @@
 ### [AI Coach Pomodoro Timer PomodoLog](https://apps.apple.com/jp/app/ai%E3%82%B3%E3%83%BC%E3%83%81%E6%90%AD%E8%BC%89-%E3%83%9D%E3%83%A2%E3%83%89%E3%83%BC%E3%83%AD%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%BC-%E3%83%9D%E3%83%A2%E3%83%89%E3%83%BC%E3%83%AD%E3%82%B0/id6739179159)
 
 Maximize your focus and make the most of your breaks with our Pomodoro Timer app, guided by a customizable AI coach. Enjoy curated background music, smart task management, beautiful design, and seamless iCloud synchronization across Apple devices. Experience personalized coaching and real-time support to boost your productivity and achieve your goals efficiently.
-
-<img src="https://github.com/user-attachments/assets/2c1c6103-9dca-4e21-8255-9092766d09f8" width=180 />
-<img src="https://github.com/user-attachments/assets/6181e405-d27a-4b4c-96c8-71c89972c875" width=180 />
-<img src="https://github.com/user-attachments/assets/3c30fcb9-c7eb-4707-b3f2-1c8e500fb541" width=180 />
-<img src="https://github.com/user-attachments/assets/a60d2509-2b67-4735-bb25-252bbcc305ac" width=180 />
-<img src="https://github.com/user-attachments/assets/2075bdb8-6d09-4e59-afeb-296b2358d9f1" width=180 />
-<img src="https://github.com/user-attachments/assets/fe2f67b4-b773-4321-9502-378507f698ec" width=180 />
+<img width="1307" alt="Screenshot 2025-02-18 at 9 36 06 PM" src="https://github.com/user-attachments/assets/040202b5-474a-47de-9670-6d5f6ff2a97b" />
 
 ### [CaffeineLog](https://apps.apple.com/jp/app/%E3%82%AB%E3%83%95%E3%82%A7%E3%82%A4%E3%83%B3%E3%83%AD%E3%82%B0-%E3%82%AB%E3%83%95%E3%82%A7%E3%82%A4%E3%83%B3%E6%91%82%E5%8F%96%E3%82%92%E7%B0%A1%E5%8D%98%E8%A8%98%E9%8C%B2%E7%AE%A1%E7%90%86/id6736601220)
 
