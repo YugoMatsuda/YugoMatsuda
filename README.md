@@ -16,7 +16,7 @@
 
 
 ##  Indie Project
-### [AI Coach Pomodoro Timer PomodoLog](https://apps.apple.com/jp/app/ai%E3%82%B3%E3%83%BC%E3%83%81%E6%90%AD%E8%BC%89-%E3%83%9D%E3%83%A2%E3%83%89%E3%83%BC%E3%83%AD%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%BC-%E3%83%9D%E3%83%A2%E3%83%89%E3%83%BC%E3%83%AD%E3%82%B0/id6739179159)
+### [AI Pomodoro Timer Poco](https://apps.apple.com/jp/app/ai%E3%82%B3%E3%83%BC%E3%83%81%E6%90%AD%E8%BC%89-%E3%83%9D%E3%83%A2%E3%83%89%E3%83%BC%E3%83%AD%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%BC-%E3%83%9D%E3%83%A2%E3%83%89%E3%83%BC%E3%83%AD%E3%82%B0/id6739179159)
 
 Maximize your focus and make the most of your breaks with our Pomodoro Timer app, guided by a customizable AI coach. Enjoy curated background music, smart task management, beautiful design, and seamless iCloud synchronization across Apple devices. Experience personalized coaching and real-time support to boost your productivity and achieve your goals efficiently.
 <img width="1307" alt="Screenshot 2025-02-18 at 9 36 06 PM" src="https://github.com/user-attachments/assets/040202b5-474a-47de-9670-6d5f6ff2a97b" />
